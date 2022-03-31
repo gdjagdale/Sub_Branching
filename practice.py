@@ -12,3 +12,5 @@ def mul(a,b):
     return a*b
 
 print(mul(7,8))
+
+print('completed')
